@@ -1,0 +1,16 @@
+Tomcat-Server-Setup:
+https://www.youtube.com/watch?v=m21nFreFw8A&list=RDCMUC_evcfxhjjui5hChhLE08tQ&index=36
+Tomcat Location:
+https://tomcat.apache.org/download-80.cgi
+github:
+https://github.com/doct15/example-tomcat-war
+
+CICD using Jenkins:
+https://www.youtube.com/watch?v=G_UCeeb5EPc&list=RDCMUC_evcfxhjjui5hChhLE08tQ&index=13
+
+#####Tomcat-Git-Automation#####
+
+https://anote.dev/integrating-tomcat-server-in-ci-cd-pipeline-by-git-automation/
+
+Uninstall Tomcat
+https://stackoverflow.com/questions/57115472/how-to-uninstall-tomcat-completely-including-server-connection-in-ubuntu
